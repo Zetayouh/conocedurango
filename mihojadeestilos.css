@@ -1,0 +1,50 @@
+#cabeceraweb{
+    background: rgb(7, 82, 41);
+    padding: 0.5em 2em;
+    text-align: center;
+}
+#navegacionprincipal{
+    width: 100%;
+    background-color: rgba(136, 190, 10, 0.932);
+}
+#listanavegacion{
+    display: flex;
+    justify-content: space-between;
+}
+#contenidoprincipal{
+    text-align: center;
+    background-color: rgb(119, 182, 94);
+    padding-left: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 1em;
+}
+#pieprincipal{
+    width: 100%;
+    background-color: yellow;
+    padding: 0.5em;
+    margin-top: 0.5em;
+}
+#portada{
+    width: 95%;
+    padding: 1.7em;
+}
+#formulario{
+    text-align: left;
+    margin-left: 40%;
+}
+li{
+    display: inline;
+    padding: 1em;
+    margin: auto;
+}
+footer{
+    text-align: center;
+}
+.foto{
+    width: 27%;
+}
+.video{
+    width: 30em;
+    height: 20em;
+}
